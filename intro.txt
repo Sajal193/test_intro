@@ -1,0 +1,11 @@
+Name : Sajal Nigam
+College Name: Birla Institute of Technology, Mesra
+
+Description and About me:
+I'm a coding enthusiast and have a basic knowledge about the certain programming languages like C++,Java.
+I'm int7erested in GSoC and want to land wih a good job in a decent organization.
+Along with being a good student, I'm also a social worker and have worked for few social help organizations like Prerna- A Girl Child Education Initiative 
+and many more.
+
+I want to use my technical skills to their fullest so as to benefit the consumer needs to the maximum possibility and simultaneously 
+manage the operations and keep check on the infrastructure-operators requirements. 
